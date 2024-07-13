@@ -13,3 +13,8 @@ streamlit run app.py
 ```
 
 This will start the Streamlit server and open your default web browser to the app's URL, typically `http://localhost:8501`.
+
+## Demo
+To access the demo of this Streamlit app, you can visit the following URL:
+
+https://app-101-xpqgrsmax3q96s42kkeurw.streamlit.app/
